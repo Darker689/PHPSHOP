@@ -1,0 +1,14 @@
+a{
+    text-decoration: none;
+}
+
+.free_nav{
+    height: 100px;
+}
+
+.navbar{
+    width: 100%;
+    background: white;
+    position: fixed;    
+    z-index: 100000;
+}
